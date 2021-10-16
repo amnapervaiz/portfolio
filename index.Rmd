@@ -1,7 +1,7 @@
 ---
 title: "Spatial Analysis Portfolio"
 author: "Amna Pervaiz"
-date: "10/15/2021"
+date: "10/16/2021"
 output: 
   html_document:
     theme: journal
@@ -15,7 +15,8 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 This is a portfolio that I have compiled to demonstrate the skills I developed in VIS 2128 Spatial Analysis at Harvard University Graduate School of Design. 
-I have created this page using RMarkdown and includes some maps that demonstrate the technical skills I acquired during the module. I intend to use these skills to map, analyze, and use spatial data to improve my understanding of places and spatial phenomenon at the regional, neighborhood, and site scales and to communicate my ideas and conclusions to others.
+
+I have created this page using RMarkdown and includes some maps that demonstrate the technical skills I acquired during the module. I intend to use these skills to map, analyze, and use spatial data to improve my understanding of places and spatial phenomenon at the regional, neighborhood, and site scales and to communicate my ideas and conclusions.
 
 The portfolio is divided into categories of the cities I studied throughout the module. A summary of the skills demonstrated in this portfolio are as follows:
 
@@ -31,7 +32,7 @@ The portfolio is divided into categories of the cities I studied throughout the 
 # Mapping Boston
 
 ## Interactive Map
-Here is an interatvie map that shows the Persent of Construction Workers employed in the Service Sector in Boston who are commuting to work by transit.
+Here is an interactive map that shows the Percent of Construction Workers employed in the Service Sector in Boston who are commuting to work by transit.
 
 [![](thumbnails/bostoninteractivemap.png)](https://amnapervaiz.github.io/portfolio/fullsize/bostoninteractivemap.html){target="_blank"}
 
