@@ -14,10 +14,12 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-This is a portfolio that I have compiled to demonstrate the skills I developed in VIS 2128 Spatial Analysis at Harvard University Graduate School of Design. I have created this page using RMarkdown and includes some maps that demonstrate the technical skills I acquired during the module. I intend to use these skills to map, analyze, and use spatial data to improve my understanding of places and spatial phenomenon at the regional, neighborhood, and site scales and to communicate my ideas and conclusions to others.
+This is a portfolio that I have compiled to demonstrate the skills I developed in VIS 2128 Spatial Analysis at Harvard University Graduate School of Design. 
+I have created this page using RMarkdown and includes some maps that demonstrate the technical skills I acquired during the module. I intend to use these skills to map, analyze, and use spatial data to improve my understanding of places and spatial phenomenon at the regional, neighborhood, and site scales and to communicate my ideas and conclusions to others.
 
 The portfolio is divided into categories of the cities I studied throughout the module. A summary of the skills demonstrated in this portfolio are as follows:
 
+* Displaying data on an interactive map
 * Displaying multiple vector layers on the same map
 * Calculating and displaying relationships among point and polygon layers based on distance
 * Aggregating point data to a layer of polygons
@@ -25,7 +27,6 @@ The portfolio is divided into categories of the cities I studied throughout the 
 * Converting between raster layers and vector layers
 * Displaying raster data on a map
 * Georeferencing a raster image
-* Displaying data on an interactive map
 
 # Mapping Boston
 
@@ -55,7 +56,7 @@ The following maps show the accessibility and the accessibility score based on a
 [![](thumbnails/assignment4h.png)](https://amnapervaiz.github.io/portfolio/fullsize/assignment4h.pdf){target="_blank"}
 [![](thumbnails/assignment4i.png)](https://amnapervaiz.github.io/portfolio/fullsize/assignment4i.pdf){target="_blank"}
 
-# Mapping San Fransisco
+# Mapping San Francisco
 ## Map 2
 This map includes a historic map of San Francisco from the early 20th century, collected from Harvard Map Archives. The goal was to highlight how specific aspects of the city has changed drastically throughout the years, particularly before and after the Great Fire of 1906 which brought about a direct transformation of the region. The fire alone accounted for more than 80 percent of total property damage from the disaster. This devastation interrupted the path of San Francisco’s social, political, and economic evolution. The following redevelopment effort greatly altered the structure of the city, introducing denser housing in areas. This difference in the density of residential buildings represents the result of a local disaster on the land use pattern in urban areas. 
 
