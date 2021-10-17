@@ -58,23 +58,23 @@ The following maps show the accessibility and the accessibility score based on a
 [![](thumbnails/assignment4i.png)](https://amnapervaiz.github.io/portfolio/fullsize/assignment4i.pdf){target="_blank"}
 
 # Mapping San Francisco
-## Map 2
+## Georeferencing a Historic Map
 This map includes a historic map of San Francisco from the early 20th century, collected from Harvard Map Archives. The goal was to highlight how specific aspects of the city has changed drastically throughout the years, particularly before and after the Great Fire of 1906 which brought about a direct transformation of the region. The fire alone accounted for more than 80 percent of total property damage from the disaster. This devastation interrupted the path of San Francisco’s social, political, and economic evolution. The following redevelopment effort greatly altered the structure of the city, introducing denser housing in areas. This difference in the density of residential buildings represents the result of a local disaster on the land use pattern in urban areas. 
 
 [![](thumbnails/assignment2.png)](https://amnapervaiz.github.io/portfolio/fullsize/assignment2.pdf){target="_blank"}
 
 # Mapping Cambridge
-## Map 3
+## Calculating and displaying relationships between Points and Polygon layers
 This map analyzes point and polygon layers. I first created a 50 meter buffer around each fire station (polygon layer) in Cambridge, sublet the hydrants (point layer) with the buffer zones, calculated percentages of hydrants within 50 meters of each fire station, and plotted a map of the calculations.
 
 [![](thumbnails/assignment3a.png)](https://amnapervaiz.github.io/portfolio/fullsize/assignment3a.pdf){target="_blank"}
 
-## Map 4
+## Calculating and displaying relationships between different Point layers
 This map analyzes multiple point layers. Here, I am trying to find the closest hydrant, by calculating how far each hydrant is from a fire station. I first calculated the average distance from a fire station to the nearest hydrant, set the map extents and plotted a map of the calculations.
 
 [![](thumbnails/assignment3d.png)](https://amnapervaiz.github.io/portfolio/fullsize/assignment3d.pdf){target="_blank"}
 
-## Map 5
+## Calculating and displaying relationships between different Polygon layers
 This map analyzes overlapping polygon layers. Here, I’d like to know which zones in Cambridge have open spaces in them.
 
 [![](thumbnails/assignment3e.png)](https://amnapervaiz.github.io/portfolio/fullsize/assignment3e.pdf){target="_blank"}
